@@ -12,12 +12,11 @@ This is a natural language processing project that aims to create around 20 ques
 
 These instructions will get you to run the program. It is a command line program.
 
-Step 1: Download the files.
-Step 2: 
-Step 3: Use the Virtual Machine Hard Disk file to setup your VM.\
-Step 4: Configure the VM.
-
-The [link](https://seedsecuritylabs.org/lab_env.html) contains a document that can be used to set up the VM without any issues.
+Step 1: Download the files.\
+Step 2: Install the requirements.\
+Step 3: Save an article in a .txt file in the same directory.\
+Step 4: Run the ask.py program and feed it your text file to generate your questions.\
+Step 5: Run the answer.py and feed it the questions and text file to generate your answers.\
 
 ## Motivation
 This project was completed as a part of the Natural Language Processing class. The project was used to demonstrate knowledge in the various fields of natural language processing. This included using Tf-IDF and cosine similarity as well as grammar transformations to parse through the corpus of text.
