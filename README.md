@@ -10,10 +10,10 @@ This is a natural language processing project that aims to create around 20 ques
 
 ## Getting Started
 
-These instructions will get you to set up the environment on your local machine to run this program. It is a command line program.
+These instructions will get you to run the program. It is a command line program.
 
-Step 1: Create a new VM in Virtual Box.\
-Step 2: Download the image [SEEDUbuntu-16.04-32bit.zip](https://seedsecuritylabs.org/lab_env.html) from here.\
+Step 1: Download the files.
+Step 2: 
 Step 3: Use the Virtual Machine Hard Disk file to setup your VM.\
 Step 4: Configure the VM.
 
