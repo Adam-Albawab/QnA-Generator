@@ -5,8 +5,7 @@ This is a natural language processing project that aims to create around 20 ques
 
 - [Getting Started](#getting-started)
 - [Motivation](#motivation)
-- [Key Learnings](#key-learnings)
-- [Methodology Video](#methodology)
+- [Methodology Video](#methodology-video)
 
 
 ## Getting Started
